@@ -1,8 +1,0 @@
-{application,utilities,
-             [{description,"Usefull modules"},
-              {vsn,"1.0.1"},
-              {registered,[]},
-              {included_applications,[jiffy]},
-              {applications,[kernel,stdlib]},
-              {env,[]},
-              {modules,[env,mappy]}]}.

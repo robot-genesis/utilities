@@ -6,5 +6,5 @@
     {applications,
       [kernel, stdlib]},
     {env, []},
-    {modules,[env,mappy]}
+    {modules,[]}
   ]}.
