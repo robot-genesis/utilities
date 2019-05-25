@@ -1,11 +1,10 @@
 {application, utilities,
   [{description, "Usefull modules"},
-    {vsn, "1.0.0"},
+    {vsn, "1.0.1"},
     {registered, []},
-    %{mod, {utilities_app, []}},
     {included_applications, [jiffy]},
     {applications,
       [kernel, stdlib]},
     {env, []},
-    {modules, []}
+    {modules,[env,mappy]}
   ]}.

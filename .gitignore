@@ -19,5 +19,4 @@ _*
 *.swp
 *.swo
 .erlang.cookie
-ebin
 log
